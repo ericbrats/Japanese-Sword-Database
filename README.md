@@ -1,2 +1,4 @@
 # Japanese-Sword-Database
-Japanese sword database program for Dr.Buck
+This is a database that allows you to store and easily retrieve anything you need to know about your swords! 
+
+
